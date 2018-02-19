@@ -4,4 +4,4 @@ en github.
 
 Probando commit sin subir a la nube.
 
-Probando la nueva rama.
+Probando la nueva rama. Rama Conflicto.
